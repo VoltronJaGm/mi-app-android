@@ -1,0 +1,16 @@
+{"timestamp":651434,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","glean_timestamp":"1745140020061","loadfail_reason":"N/A","can_load":"true"}}
+{"timestamp":651434,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"path_key":"clean","glean_timestamp":"1745140020061","can_load":"true","loadfail_reason":"N/A"}}
+{"timestamp":651435,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_ok":"false","glean_timestamp":"1745140020061","shutdown_reason":"N/A"}}
+{"timestamp":651931,"category":"webcompatreporting","name":"reason_dropdown","extra":{"setting":"required","glean_timestamp":"1745140020557"}}
+{"timestamp":652375,"category":"jsonfile","name":"load_autofillprofiles","extra":{"glean_timestamp":"1745140021002","value":""}}
+{"timestamp":652858,"category":"doh","name":"state_rollback","extra":{"glean_timestamp":"1745140021485","value":"null"}}
+{"timestamp":653337,"category":"normandy","name":"validation_failed_nimbus_experiment","extra":{"value":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF","reason":"invalid-feature","glean_timestamp":"1745140021963"}}
+{"timestamp":653337,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"addAnImageInPDF","glean_timestamp":"1745140021963","experiment":"add-an-image-to-pdf-with-alt-text-rollout"}}
+{"timestamp":653337,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1745140021964"}}
+{"timestamp":653505,"category":"jsonfile","name":"load_logins","extra":{"value":"","glean_timestamp":"1745140022131"}}
+{"timestamp":653519,"category":"upgrade_dialog","name":"trigger_reason","extra":{"glean_timestamp":"1745140022145","value":"not-major"}}
+{"timestamp":662496,"category":"urlbar","name":"engagement","extra":{"provider":"SearchSuggestions","actions":"none,none,none,none","engagement_type":"click","results":"search_engine,search_suggest,search_suggest,search_suggest","n_words":"2","selected_position":"3","search_mode":"","n_chars":"13","search_engine_default_id":"google-ubuntu-sn","n_results":"4","glean_timestamp":"1745140031123","interaction":"typed","selected_result":"search_suggest","groups":"heuristic,search_suggest,search_suggest,search_suggest","sap":"urlbar_newtab"}}
+{"timestamp":662966,"category":"serp","name":"impression","extra":{"impression_id":"d97099f5-fa06-452e-ac11-f58897e692d0","is_signed_in":"false","shopping_tab_displayed":"false","tagged":"true","provider":"google","glean_timestamp":"1745140031593","source":"urlbar","is_shopping_page":"false","partner_code":"ubuntu-sn","is_private":"false"}}
+{"timestamp":663952,"category":"media.playback","name":"first_frame_loaded","extra":{"video_codec":"video/avc","first_frame_loaded_time":"66","playback_type":"Non-MSE playback","buffering_time":"0","metadata_loaded_time":"1","total_waiting_data_time":"0","resolution":"V,0<h<=240","glean_timestamp":"1745140039191"}}
+{"timestamp":670597,"category":"serp","name":"abandonment","extra":{"glean_timestamp":"1745140039223","reason":"navigation","impression_id":"d97099f5-fa06-452e-ac11-f58897e692d0"}}
+{"timestamp":803424,"category":"doh","name":"state_shutdown","extra":{"glean_timestamp":"1745140172050","value":"null"}}

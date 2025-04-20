@@ -1,0 +1,1 @@
+{"timestamp":663718,"category":"perf","name":"page_load","extra":{"load_time":"1176","js_exec_time":"395","time_to_request_start":"13","using_webdriver":"false","response_time":"83","dns_lookup_time":"6","features":"0","glean_timestamp":"1745140032345","load_type":"NORMAL","http_ver":"3","fcp_time":"240","lcp_time":"280"},"execution_counter":1}
